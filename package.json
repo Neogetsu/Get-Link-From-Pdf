@@ -1,0 +1,18 @@
+{
+  "name": "GetLinkFromPdf",
+  "version": "1.0.0",
+  "description": "Script qui permet de récuperer les liens des pdf (avec possibilité d'en eclure)"
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "get-links": "node app.js"
+  },
+  "keywords": [],
+  "author": "Neo's",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "pdf-parse": "^1.1.1"
+  }
+}
