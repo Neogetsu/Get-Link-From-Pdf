@@ -39,7 +39,26 @@ Le script utilise les modules Node.js suivants :
 - path pour manipuler les chemins de fichiers
 - pdf-parse pour extraire le texte des fichiers PDF
 - figlet pour afficher le texte stylisé "Dev by Neo's"
-  
+
+## Illustrations: 
+- ### Ajouter les fichier PDF
+<img src="./assets/1.png" alt="p1"> 
+
+## 
+- ### Démarrer le projet (penser a faire `npm install` avant)
+<img src="./assets/start.png" alt="p1">
+
+## 
+- ### Rendu MD
+<img src="./assets/rendu-md.png" alt="p1">
+
+## 
+- ### Rendu HTML
+<img src="./assets/rendu-html.png" alt="p1">
+
+## 
+- ### Script Running
+<img src="./assets/running.png" alt="p1"> 
  
 
 
